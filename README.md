@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+### Fullstack Web | ML | AI | Data Science
+
+#### 🌐 Web stack:
+Next JS | Node.js | Javascript | Typescript | Go
+
+#### 🤖 ML | AI | DS:
+Go | Python
+
+
+
 <!--
 **artcevvv/artcevvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
