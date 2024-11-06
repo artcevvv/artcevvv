@@ -1,12 +1,18 @@
 ## Hi there 👋
 
-### Fullstack Web | ML | AI | Data Science
+### Web Development | Backend | Frontend | ML | AI | Data Science
 
 #### 🌐 Web stack:
-Next JS | Node.js | Javascript | Typescript | Go
+Next JS | Node.js | Javascript | Typescript | Go | PHP
 
 #### 🤖 ML | AI | DS:
 Go | Python
+
+#### 📂 Databases:
+PostgreSQL, MariaDB, MySQL, MongoDB, Prisma
+
+#### 🐳 Other technologies:
+Docker
 
 
 
