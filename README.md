@@ -8,6 +8,9 @@ Next JS | Node.js | Javascript | Typescript | Go | PHP
 #### 🤖 ML | AI | DS:
 Go | Python
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artcevvv&layout=pie)
+
+
 #### 📂 Databases:
 PostgreSQL, MariaDB, MySQL, MongoDB, Prisma
 
@@ -16,4 +19,4 @@ Docker
 
 #### Stats
 ![artcevvv's GitHub stats](https://github-readme-stats.vercel.app/api?username=artcevvv&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artcevvv)
+
