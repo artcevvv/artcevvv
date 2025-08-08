@@ -8,12 +8,12 @@ I love learning something new and working on the side projects that involves sid
 
 ### My skills:
 
-[![My Skills](https://skillicons.dev/icons?i=go,php,html,css,js,ts,nextjs,python,prisma,postgresql,mysql,mongodb,docker,git,nodejs&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,wordpress,php,html,css,js,ts,nextjs,python,prisma,postgresql,mysql,mongodb,docker,git,linux&perline=5)](https://skillicons.dev)
 
 
 ### To contact:
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/artcevvv/)
+[![Socials](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/artcevvv/)
 
 #### 📊 Stats
 ![artcevvv's GitHub stats](https://github-readme-stats.vercel.app/api?username=artcevvv&show_icons=true&theme=radical)
