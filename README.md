@@ -14,7 +14,7 @@ PostgreSQL, MariaDB, MySQL, MongoDB, Prisma
 #### 🐳 Other technologies:
 Docker
 
-[![My Skills](https://skillicons.dev/icons?i=go,php,html,css,js,ts,nextjs,python,prisma,postgresql,mysql,mongodb,docker,git,node)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,php,html,css,js,ts,nextjs,python,prisma,postgresql,mysql,mongodb,docker,git,nodejs)](https://skillicons.dev)
 
 #### 📊 Stats
 ![artcevvv's GitHub stats](https://github-readme-stats.vercel.app/api?username=artcevvv&show_icons=true&theme=radical)
