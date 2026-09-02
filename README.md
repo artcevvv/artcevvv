@@ -1,6 +1,6 @@
 # Hi there, I'm Artyom
 
-**Full-Stack Software Engineer | Tech Lead | Data Science Student | Music artist**
+**Full-Stack Software Engineer | Tech Lead | Big Data Analysis Student | Music artist**
 
 I build high-concurrency backends, scalable web applications, and AI-integrated bots. Currently, I am the Development Team Lead at BuhoninLab and pursuing a degree in Big Data Analysis. Whether I am optimizing database queries, orchestrating Docker containers, or building custom hardware, I focus on performance and reliability.
 
